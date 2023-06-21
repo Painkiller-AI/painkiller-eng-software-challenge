@@ -45,7 +45,7 @@ You will be evaluated on:
 
 ## Delivery
 
-To deliver the test, create a GitHub repository with your solution and send the link to the email [email].
+Deliver on Gupy.
 
 Please include in the repository:
 
