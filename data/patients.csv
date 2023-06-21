@@ -1,0 +1,21 @@
+patient_id,first_name,last_name,age,condition
+1,John,Doe,55,Healthy
+2,Jane,Smith,30,Healthy
+3,James,Brown,50,High blood pressure
+4,Sarah,Johnson,68,Diabetes
+5,Michael,Williams,45,Healthy
+6,Elizabeth,Taylor,72,High cholesterol
+7,David,Jones,60,Heart disease
+8,Jennifer,Martin,35,Asthma
+9,Thomas,Thompson,40,Obesity
+10,Linda,Garcia,58,Arthritis
+11,Robert,Anderson,66,High blood pressure
+12,Patricia,Jackson,32,Healthy
+13,Joseph,White,70,Alzheimer's
+14,Susan,Harris,46,Depression
+15,Charles,Clark,51,High blood pressure
+16,Jessica,Lewis,29,Healthy
+17,William,Young,65,Diabetes
+18,Karen,Hall,38,Obesity
+19,Richard,Allen,59,Heart disease
+20,Barbara,Wright,75,Arthritis
