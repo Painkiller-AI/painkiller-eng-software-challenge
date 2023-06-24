@@ -75,6 +75,4 @@ Each line represents a patient, with the following fields:
 - `first_name`: Patient's first name
 - `last_name`: Patient's last name
 - `age`: Patient's age
-- `condition`: Patient
-
-'s health condition
+- `condition`: Patient's health condition
