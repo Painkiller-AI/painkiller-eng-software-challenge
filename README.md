@@ -6,7 +6,7 @@ This test is designed to assess the technical skills of the candidate for the Se
 
 For this test, we would like you to create a system that could be used in a hospital to monitor patient conditions. We have provided a sample CSV file (`patients.csv`) containing patient data that you can use to test your application.
 
-### Part 1: Backend and DevOps
+### Part 1: Backend
 
 1. **API:** Develop a REST API using FastAPI with the following endpoints: 
     - `POST /api/v1/patient`: Should receive a new patient's data (name, age, medical conditions, etc.) in JSON format, store it in a database, and return the patient object with an assigned ID.
