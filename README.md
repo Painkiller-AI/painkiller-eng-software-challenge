@@ -17,21 +17,17 @@ For this test, we would like you to create a system that could be used in a hosp
 
 3. **Database:** Implement CRUD operations in a database of your choice to manage the data of the patients and their measurements.
 
-4. **Containerization and Orchestration:** Containerize the application using Docker and implement the orchestration of containers using Kubernetes.
+### Part 2: Unit Testing
 
-5. **CI/CD:** Set up a CI/CD pipeline for the application. 
+1. **Unit Testing:** Write unit tests for your application to validate its functionality and robustness.
 
-### Part 2: Machine Learning (Bonus)
+### Part 3: Machine Learning (Optional) - (Bonus)
 
 1. **Machine Learning Model:** Implement a simple Machine Learning model in the application that utilizes the measurement data to predict whether a patient has a high risk of some health problem (for example, based on fluctuations in blood pressure). Use OpenAI's API and its models for this task.
 
 2. **Model Implementation:** Demonstrate how you would implement and maintain this model in a production environment.
 
 3. **Model Monitoring:** Show how you would monitor and optimize this Machine Learning model to ensure its performance and scalability.
-
-### Part 3: Unit Testing
-
-1. **Unit Testing:** Write unit tests for your application to validate its functionality and robustness. 
 
 ## Evaluation
 
